@@ -28,7 +28,7 @@ export const projects = [
     subtitle: "React Hooks",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
+    image : "./project-4.gif",
     link: "https://reactbootcamp.com",
   },
 ];
@@ -52,9 +52,17 @@ export const testimonials = [
 
 export const skills = [
   "JavaScript",
-  "React",
-  "Next.js",
+  "HTML",
+  "CSS",
   "Node",
-  "GraphQL",
-  "Material UI",
+  "Mysql",
+  "Java",
+  "Enterprise Java",
+  "Figma",
+  "BootStrap",
+  "Git",
+  "GitHub",
+  "C",
+  "C++",
+  "Python"
 ];
