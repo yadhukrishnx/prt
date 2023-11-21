@@ -11,10 +11,10 @@ export default function Projects() {
         <div className="flex flex-col w-full mb-20">
           <CodeIcon className="mx-auto inline-block w-10 mb-4" />
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
-            Basic Projects Done 
+            Small Projects in Progress
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            This are some level 0 projects done with the Basic Knowledge of HTML,CSS,BOOTSTRAP,JAVASCRIPT etc 
+            I'm currently working on a variety of small projects, exploring different technologies and gaining hands-on experience. Below are some of the projects I'm actively involved in:
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
@@ -22,7 +22,8 @@ export default function Projects() {
             <a
               href={project.link}
               key={project.image}
-              className="sm:w-1/2 w-100 p-4">
+              className="sm:w-1/2 w-100 p-4"
+            >
               <div className="flex relative">
                 <img
                   alt="gallery"

@@ -1,52 +1,52 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Digi-gramam csc center webpage",
+    subtitle: "Basic Bootstrap",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A basic webpage designed for CSc center nearby",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://yadhukrishnx.github.io/DIGIGRAMAM/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Calculator",
+    subtitle: "HTML,CSS,JS",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A basic calculator which performs arithematic operations",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/yadhukrishnx",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Dice roller",
+    subtitle: "JavaScript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Basic implementation of javascript concepts as a dice roller project",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/yadhukrishnx",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Login Page",
+    subtitle: "js",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Rolling dice and geting o/t using js switch-case",
     image : "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/yadhukrishnx",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "He is a good boy.",
     image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+    name: "Adibas",
+    company: "Zoozle kkezhma",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "He is Good enough",
     image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+    name: "Aswathi",
+    company: "AVC Aviations",
   },
 ];
 
